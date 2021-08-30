@@ -1,0 +1,29 @@
+{
+  "name": "near-cli-extension-example-js",
+  "version": "0.0.1",
+  "description": "Example of the extension for near-cli-rs",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/volovyk-s/near-cli-extension-example-js.git"
+  },
+  "keywords": [
+    "near-cli",
+    "near-cli-rs",
+    "near",
+    "extension",
+    "subcommand"
+  ],
+  "author": "sergeyvolovyk@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/volovyk-s/near-cli-extension-example-js/issues"
+  },
+  "homepage": "https://github.com/volovyk-s/near-cli-extension-example-js#readme",
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
