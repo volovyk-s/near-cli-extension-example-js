@@ -25,5 +25,7 @@
   "homepage": "https://github.com/volovyk-s/near-cli-extension-example-js#readme",
   "dependencies": {
     "yargs": "^17.1.1"
-  }
+  },
+  "preferGlobal": true,
+  "bin": "./main.js"
 }
